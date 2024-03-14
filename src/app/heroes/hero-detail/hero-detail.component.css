@@ -1,5 +1,10 @@
-nav a {
-  padding: 1rem;
+button {
+  margin-top: 1rem;
+}
+
+label {
+  display: block;
+  margin-bottom: .5rem;
 }
 
 

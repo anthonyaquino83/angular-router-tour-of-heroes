@@ -1,5 +1,6 @@
-nav a {
-  padding: 1rem;
+export interface Hero {
+  id: number;
+  name: string;
 }
 
 
